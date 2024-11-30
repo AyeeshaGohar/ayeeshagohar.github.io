@@ -1,4 +1,3 @@
 # ayeeshagohar.github.io
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://dummyproject.my.canva.site/ayeesha-gohar" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
+<style> .responsive-wrap iframe{ max-width: 100%;} </style>
+<iframe src="https://www.canva.com/design/DAGX8PO03eo/giTTuHJkKGFaBt1CqW25MA/view?embed" width="100%" height="480" allowfullscreen> </iframe>
